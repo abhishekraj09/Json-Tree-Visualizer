@@ -53,6 +53,5 @@ json-tree-visualizer/
 ├── package.json
 └── README.md
 
-=======
-# Json-Tree-Visualizer
->>>>>>> c0c526aeaf67c0667c72d7bdec5bccb717f8a8a8
+
+
