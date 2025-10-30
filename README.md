@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌳 JSON Tree Visualizer
 
 An interactive web app to visualize JSON data as a hierarchical **tree structure** using **React Flow**.
